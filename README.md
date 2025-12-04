@@ -1,4 +1,4 @@
-<h1 align="center"> Relógio </h1>
+<h1 align="center"> Relógio Online </h1>
 
 <p align="center">
   <a href="#-funcionalidades">🚀 Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
