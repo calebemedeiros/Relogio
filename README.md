@@ -14,6 +14,10 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+<p align="center">
+  <img alt="projeto DevLinks" src="./assets/previewRelogio.png" width="100%">
+</p>
+
 # ⏰ Relógio
 
 Projeto desenvolvido em **HTML**, **CSS** e **JavaScript** com o objetivo de criar um relógio digital interativo e responsivo para ser utilizado diretamente no navegador.
